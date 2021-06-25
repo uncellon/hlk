@@ -13,3 +13,6 @@
 [submodule "gpio"]
 	path = gpio
 	url = https://github.com/uncellon/hlk-gpio
+[submodule "timers"]
+	path = timers
+	url = https://github.com/uncellon/hlk-timers.git
