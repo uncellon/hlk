@@ -16,3 +16,6 @@
 [submodule "timers"]
 	path = timers
 	url = https://github.com/uncellon/hlk-timers.git
+[submodule "pool"]
+	path = pool
+	url = https://github.com/uncellon/hlk-pool
