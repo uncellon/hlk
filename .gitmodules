@@ -4,12 +4,9 @@
 [submodule "serialport"]
 	path = serialport
 	url = https://github.com/uncellon/hlk-serial-port
-[submodule "log"]
-	path = log
+[submodule "logger"]
+	path = logger
 	url = https://github.com/uncellon/hlk-log
-[submodule "qtlog"]
-	path = qtlog
-	url = https://github.com/uncellon/hlk-qt-log
 [submodule "gpio"]
 	path = gpio
 	url = https://github.com/uncellon/hlk-gpio
